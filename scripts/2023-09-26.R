@@ -39,7 +39,7 @@ biscoe_dat_means_imperial <- biscoe_dat_means_imperial |>
            ends_with("in") |
            ends_with("lb")))
 
-# writing functions----
+# functions----
 
 my_function <- function(favorite_beverage = "coffee") {
   
